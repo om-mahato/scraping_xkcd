@@ -1,4 +1,4 @@
-# scrapping_xkcd
+# scraping_xkcd
 A simple python script which uses BeautifulSoup to download all the comic images from xkcd.com
 
 Anyone can modify according to their needs.
